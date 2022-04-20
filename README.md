@@ -8,3 +8,7 @@ Week6 Marvel Exercise New Version
 3. Multi Language (İngilizce, Türkçe, Fransızca)
 
 Deadline - 24.04.2022 10:00
+
+### 🔗 [**Live Demo**](https://marvel-react-language.netlify.app/)
+
+<br>

@@ -1,0 +1,12 @@
+{
+    "movie": {
+      "searchChar": "Search Character",
+      "searchName": "Search character which you want",
+      "charName": "Character Name: ",
+      "name": "Name: ",
+      "description": "Description: ",
+      "modified" : "Modified: ",
+      "series": "Series: ",
+      "films": "Films: "
+    }
+  }
