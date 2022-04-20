@@ -4,6 +4,7 @@ import EN from "./constants/language/en.json";
 import TR from "./constants/language/tr.json";
 import FR from "./constants/language/fr.json";
 
+
 i18n
     .use(initReactI18next)
     .init({
